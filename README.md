@@ -7,3 +7,5 @@ This hackathon comes in the form of three assignments: each assignment requires 
 We were expected to work as a team to produce some actionable insights; the notebooks I will be uploading are my contributions.
 
 The certificate which indicates my participation in the hackathon is attached below. 
+
+[![cert](https://github.com/leongjwm/dsa3101_hackathon/raw/master/misc/DSA3101%20Certificate%20-%20Leong%20Jia%20Wei%2C%20Marcus.png)](#cert)
